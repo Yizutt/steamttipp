@@ -1,1 +1,11 @@
-
+{
+  "version": "1.2.0",
+  "download": "https://github.com/Yizutt/steamttipp/raw/main/script.user.js",
+  "changelog": [
+    "新增一键领取 GOG 与 Amazon 支持",
+    "增加菜单界面与历史记录功能",
+    "新增平台自动匹配与日志记录",
+    "支持调试模式与通知权限提示"
+  ],
+  "notice": "欢迎使用 免费游戏一键领取助手，建议使用最新版 Tampermonkey 配合 Chrome/Edge 浏览器"
+}
